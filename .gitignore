@@ -1,0 +1,13 @@
+node_modules/
+typings/
+!public/bundle*
+!public/index*
+npm-debug.log
+.idea/
+dist/
+*iml
+*.js
+!gulpfile.js
+!*.config.js
+unused files/index.ts
+unused files/
